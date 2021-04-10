@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I am currently learning JavaScript 👋
 
 <!--
 **Nikki-1/Nikki-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
